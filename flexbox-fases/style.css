@@ -1,0 +1,23 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #e0f7fa;
+  padding: 20px;
+}
+
+#pond {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #4db8ff;
+  height: 300px;
+  border: 3px dashed #0077cc;
+  margin: 20px auto;
+  width: 80%;
+  gap: 20px;
+}
+
+.frog {
+  width: 80px;
+  height: 80px;
+}
